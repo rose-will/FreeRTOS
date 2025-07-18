@@ -1,0 +1,5 @@
+EmbeddedRTOSSimulator
+*.o
+*.log
+sim_output.log
+test_embeddedrtossim.sh
